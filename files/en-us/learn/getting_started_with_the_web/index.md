@@ -51,4 +51,4 @@ By working through the articles listed below,  you will go from nothing to getti
 ## See also
 
 - [Web Demystified](https://www.youtube.com/playlist?list=PLo3w8EB99pqLEopnunz-dOOBJ8t-Wgt2g): A great series of videos explaining web fundamentals, aimed at complete beginners to web development. Created by [Jérémie Patonnier](https://twitter.com/JeremiePat).
-- [The web and web standards](/en-US/docs/Learn/Getting_started_with_the_web/The_web_and_web_standards): This article provides some useful background on the Web — how it came about, what web standard technologies are, how they work together, why "web developer" is a great career to choose, and what kinds of best practices you'll learn about through the course.
+- [The web and web standards](/en-US/docs/Learn/Getting_started_with_the_web/The_web_and_web_standards): This article provides some useful background on the Web — how it came about, what web standard technologies are, how they work together, why "web developer" is a great career to choose.
